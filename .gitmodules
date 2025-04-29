@@ -1,0 +1,3 @@
+[submodule "EmailIntelligence"]
+	path = EmailIntelligence
+	url = https://github.com/tanish014/AI-bill-split.git
